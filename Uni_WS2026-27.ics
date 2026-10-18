@@ -1,0 +1,2058 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Studienorganisation//WS2627//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Uni WS 26/27
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d8e1bc7c9bd9df6e93b43d60833e77ea@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261009T100000
+DTEND;TZID=Europe/Berlin:20261009T180000
+SUMMARY:📘 Vorlesung: Einführung in die BWL · HFB/Audimax
+LOCATION:HFB/Audimax\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110201\nAnwesenheitspflicht: nein\nGeblockte Vorlesung
+  (5 Termine).\nhttps://www.fu-berlin.de/vv/de/lv/1087488?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:5193868d0b937e191d9832c0369113d2@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261012T120000
+DTEND;TZID=Europe/Berlin:20261012T180000
+SUMMARY:📘 Vorlesung: Einführung in die BWL · HFB/Audimax
+LOCATION:HFB/Audimax\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110201\nAnwesenheitspflicht: nein\nGeblockte Vorlesung
+  (5 Termine).\nhttps://www.fu-berlin.de/vv/de/lv/1087488?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:1237ccf407ee1ef555fa8623dba81d16@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261014T160000
+DTEND;TZID=Europe/Berlin:20261014T180000
+SUMMARY:📘 Vorlesung: Einführung in die BWL · HFB/Audimax
+LOCATION:HFB/Audimax\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110201\nAnwesenheitspflicht: nein\nGeblockte Vorlesung
+  (5 Termine).\nhttps://www.fu-berlin.de/vv/de/lv/1087488?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:863d290783f6b8197aef3f3b8d63e5b5@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261015T120000
+DTEND;TZID=Europe/Berlin:20261015T170000
+SUMMARY:📘 Vorlesung: Einführung in die BWL · HFB/Audimax
+LOCATION:HFB/Audimax\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110201\nAnwesenheitspflicht: nein\nGeblockte Vorlesung
+  (5 Termine).\nhttps://www.fu-berlin.de/vv/de/lv/1087488?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:c311b1f58dd4ed86197b15b345ba4351@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261016T100000
+DTEND;TZID=Europe/Berlin:20261016T160000
+SUMMARY:📘 Vorlesung: Einführung in die BWL · HFB/Audimax
+LOCATION:HFB/Audimax\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110201\nAnwesenheitspflicht: nein\nGeblockte Vorlesung
+  (5 Termine).\nhttps://www.fu-berlin.de/vv/de/lv/1087488?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:44313f9b5a1dd013e70be4e07eec3e05@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261106T120000
+DTEND;TZID=Europe/Berlin:20261106T180000
+SUMMARY:✏️ Übung: Einführung in die BWL · Hs 101 Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110202\nAnwesenheitspflicht: nein\nBlockübung. Das VV
+  nennt weitere mögliche Räume (Hs 101–108a\, K 005/006\, am Sa auch Th
+ ielallee 67) – Raumzuteilung vor Ort prüfen.\nhttps://www.fu-berlin.de/
+ vv/de/lv/1087490?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:b6fa905e905995984a0516135cb18256@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261107T100000
+DTEND;TZID=Europe/Berlin:20261107T180000
+SUMMARY:✏️ Übung: Einführung in die BWL · Hs 101 Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110202\nAnwesenheitspflicht: nein\nBlockübung. Das VV
+  nennt weitere mögliche Räume (Hs 101–108a\, K 005/006\, am Sa auch Th
+ ielallee 67) – Raumzuteilung vor Ort prüfen.\nhttps://www.fu-berlin.de/
+ vv/de/lv/1087490?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:f4b6f25409c3e5b69979f5811f98db31@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261013T080000
+DTEND;TZID=Europe/Berlin:20261013T100000
+SUMMARY:📘 Vorlesung: Grundlagen externer Unternehmensrechnung · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110001\nAnwesenheitspflicht: nein\nProf. Ruhnke.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097100?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:4e7c391e139a6819f6bcc72cc218526f@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261020T080000
+DTEND;TZID=Europe/Berlin:20261020T100000
+SUMMARY:📘 Vorlesung: Grundlagen externer Unternehmensrechnung · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110001\nAnwesenheitspflicht: nein\nProf. Ruhnke.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097100?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:a753437a97fd93e0a04a30fb7d7fd28d@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261027T080000
+DTEND;TZID=Europe/Berlin:20261027T100000
+SUMMARY:📘 Vorlesung: Grundlagen externer Unternehmensrechnung · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110001\nAnwesenheitspflicht: nein\nProf. Ruhnke.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097100?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:0f749dbd0a3d23fd3c0f495dffe2f59a@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261103T080000
+DTEND;TZID=Europe/Berlin:20261103T100000
+SUMMARY:📘 Vorlesung: Grundlagen externer Unternehmensrechnung · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110001\nAnwesenheitspflicht: nein\nProf. Ruhnke.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097100?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:4bd6215473df2d53ac5e0f29e7df2ffa@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261110T080000
+DTEND;TZID=Europe/Berlin:20261110T100000
+SUMMARY:📘 Vorlesung: Grundlagen externer Unternehmensrechnung · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110001\nAnwesenheitspflicht: nein\nProf. Ruhnke.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097100?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:d50bd17976ccb81f15a42e030e6ca174@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261117T080000
+DTEND;TZID=Europe/Berlin:20261117T100000
+SUMMARY:📘 Vorlesung: Grundlagen externer Unternehmensrechnung · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110001\nAnwesenheitspflicht: nein\nProf. Ruhnke.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097100?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:ad77633b88acf62aeb4fe4770c4ddc67@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261124T080000
+DTEND;TZID=Europe/Berlin:20261124T100000
+SUMMARY:📘 Vorlesung: Grundlagen externer Unternehmensrechnung · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110001\nAnwesenheitspflicht: nein\nProf. Ruhnke.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097100?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:9fd7d7662ee87137e749412ef880aebd@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261201T080000
+DTEND;TZID=Europe/Berlin:20261201T100000
+SUMMARY:📘 Vorlesung: Grundlagen externer Unternehmensrechnung · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110001\nAnwesenheitspflicht: nein\nProf. Ruhnke.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097100?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:ef4ada07b197540fbfbf006693bf2f9d@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261208T080000
+DTEND;TZID=Europe/Berlin:20261208T100000
+SUMMARY:📘 Vorlesung: Grundlagen externer Unternehmensrechnung · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110001\nAnwesenheitspflicht: nein\nProf. Ruhnke.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097100?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:cbe182c5d4dbcaa67d100b92b4deeb6f@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261215T080000
+DTEND;TZID=Europe/Berlin:20261215T100000
+SUMMARY:📘 Vorlesung: Grundlagen externer Unternehmensrechnung · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110001\nAnwesenheitspflicht: nein\nProf. Ruhnke.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097100?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:853a0281e75001964ac4b298dd21a439@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270105T080000
+DTEND;TZID=Europe/Berlin:20270105T100000
+SUMMARY:📘 Vorlesung: Grundlagen externer Unternehmensrechnung · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110001\nAnwesenheitspflicht: nein\nProf. Ruhnke.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097100?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:adf13c25556c1bcf92aa610aecdd771a@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270112T080000
+DTEND;TZID=Europe/Berlin:20270112T100000
+SUMMARY:📘 Vorlesung: Grundlagen externer Unternehmensrechnung · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110001\nAnwesenheitspflicht: nein\nProf. Ruhnke.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097100?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:3d3d515533454bfc7e2abef9f54ab201@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270119T080000
+DTEND;TZID=Europe/Berlin:20270119T100000
+SUMMARY:📘 Vorlesung: Grundlagen externer Unternehmensrechnung · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110001\nAnwesenheitspflicht: nein\nProf. Ruhnke.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097100?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:baa1d5017e51ec9bbd96f87df268f37f@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270126T080000
+DTEND;TZID=Europe/Berlin:20270126T100000
+SUMMARY:📘 Vorlesung: Grundlagen externer Unternehmensrechnung · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110001\nAnwesenheitspflicht: nein\nProf. Ruhnke.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097100?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:8e84bd15483133c4fcf324ba04e619c2@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270202T080000
+DTEND;TZID=Europe/Berlin:20270202T100000
+SUMMARY:📘 Vorlesung: Grundlagen externer Unternehmensrechnung · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110001\nAnwesenheitspflicht: nein\nProf. Ruhnke.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097100?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:9f50ebf1389754b41b289592d3c77766@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270209T080000
+DTEND;TZID=Europe/Berlin:20270209T100000
+SUMMARY:📘 Vorlesung: Grundlagen externer Unternehmensrechnung · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110001\nAnwesenheitspflicht: nein\nProf. Ruhnke.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097100?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:0aec36504947ce0992b844cab662368c@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261013T100000
+DTEND;TZID=Europe/Berlin:20261013T120000
+SUMMARY:📘 Vorlesung: Business- u. Dienstleistungsmarketing · HFB/D Hör
+ saal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111208\nAnwesenheitspflicht: nein\nProf. Eggert.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097194?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:771cccbca1f537c28358b5af2c3228e8@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261020T100000
+DTEND;TZID=Europe/Berlin:20261020T120000
+SUMMARY:📘 Vorlesung: Business- u. Dienstleistungsmarketing · HFB/D Hör
+ saal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111208\nAnwesenheitspflicht: nein\nProf. Eggert.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097194?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:9692e7bae955078838618e3e8b61bb29@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261027T100000
+DTEND;TZID=Europe/Berlin:20261027T120000
+SUMMARY:📘 Vorlesung: Business- u. Dienstleistungsmarketing · HFB/D Hör
+ saal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111208\nAnwesenheitspflicht: nein\nProf. Eggert.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097194?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:30fbfe7d6df073a50b18a64bb66a6ce7@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261103T100000
+DTEND;TZID=Europe/Berlin:20261103T120000
+SUMMARY:📘 Vorlesung: Business- u. Dienstleistungsmarketing · HFB/D Hör
+ saal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111208\nAnwesenheitspflicht: nein\nProf. Eggert.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097194?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:dad3aba6a2a1110f5120b4f2484d1abe@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261110T100000
+DTEND;TZID=Europe/Berlin:20261110T120000
+SUMMARY:📘 Vorlesung: Business- u. Dienstleistungsmarketing · HFB/D Hör
+ saal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111208\nAnwesenheitspflicht: nein\nProf. Eggert.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097194?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:ed48e5a34c24baa26bf389467be70eb2@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261117T100000
+DTEND;TZID=Europe/Berlin:20261117T120000
+SUMMARY:📘 Vorlesung: Business- u. Dienstleistungsmarketing · HFB/D Hör
+ saal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111208\nAnwesenheitspflicht: nein\nProf. Eggert.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097194?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:575536b1312d63d5d49f1aea60ee8ab1@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261124T100000
+DTEND;TZID=Europe/Berlin:20261124T120000
+SUMMARY:📘 Vorlesung: Business- u. Dienstleistungsmarketing · HFB/D Hör
+ saal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111208\nAnwesenheitspflicht: nein\nProf. Eggert.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097194?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:075535d24dbce4c809a9b24b6908c29f@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261201T100000
+DTEND;TZID=Europe/Berlin:20261201T120000
+SUMMARY:📘 Vorlesung: Business- u. Dienstleistungsmarketing · HFB/D Hör
+ saal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111208\nAnwesenheitspflicht: nein\nProf. Eggert.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097194?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:67e428d83465e734d00e3c8571e56772@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261208T100000
+DTEND;TZID=Europe/Berlin:20261208T120000
+SUMMARY:📘 Vorlesung: Business- u. Dienstleistungsmarketing · HFB/D Hör
+ saal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111208\nAnwesenheitspflicht: nein\nProf. Eggert.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097194?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:d731d1853d41e3c2a0422e073734c3b8@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261215T100000
+DTEND;TZID=Europe/Berlin:20261215T120000
+SUMMARY:📘 Vorlesung: Business- u. Dienstleistungsmarketing · HFB/D Hör
+ saal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111208\nAnwesenheitspflicht: nein\nProf. Eggert.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097194?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:58f3211888240951c14a1701151570cd@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270105T100000
+DTEND;TZID=Europe/Berlin:20270105T120000
+SUMMARY:📘 Vorlesung: Business- u. Dienstleistungsmarketing · HFB/D Hör
+ saal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111208\nAnwesenheitspflicht: nein\nProf. Eggert.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097194?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:35d63ff5c30b6c8e285358cd4435cb59@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270112T100000
+DTEND;TZID=Europe/Berlin:20270112T120000
+SUMMARY:📘 Vorlesung: Business- u. Dienstleistungsmarketing · HFB/D Hör
+ saal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111208\nAnwesenheitspflicht: nein\nProf. Eggert.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097194?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:7e4c6dfd0dc35102f2ac31391e9eb944@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270119T100000
+DTEND;TZID=Europe/Berlin:20270119T120000
+SUMMARY:📘 Vorlesung: Business- u. Dienstleistungsmarketing · HFB/D Hör
+ saal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111208\nAnwesenheitspflicht: nein\nProf. Eggert.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097194?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:c3933960b82485762cc389584ff4bad2@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270126T100000
+DTEND;TZID=Europe/Berlin:20270126T120000
+SUMMARY:📘 Vorlesung: Business- u. Dienstleistungsmarketing · HFB/D Hör
+ saal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111208\nAnwesenheitspflicht: nein\nProf. Eggert.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097194?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:ca45e576b02c3a25b6de6f9e8fec321c@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270202T100000
+DTEND;TZID=Europe/Berlin:20270202T120000
+SUMMARY:📘 Vorlesung: Business- u. Dienstleistungsmarketing · HFB/D Hör
+ saal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111208\nAnwesenheitspflicht: nein\nProf. Eggert.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097194?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:c351a95e7e064ef40d5f2920d3a5ac91@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270209T100000
+DTEND;TZID=Europe/Berlin:20270209T120000
+SUMMARY:📘 Vorlesung: Business- u. Dienstleistungsmarketing · HFB/D Hör
+ saal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111208\nAnwesenheitspflicht: nein\nProf. Eggert.\nhttp
+ s://www.fu-berlin.de/vv/de/lv/1097194?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:544bc2cf0e2bc01057de9363d5d3ea2a@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261022T100000
+DTEND;TZID=Europe/Berlin:20261022T120000
+SUMMARY:✏️ Übung: Business- u. Dienstleistungsmarketing · HFB/D Hörs
+ aal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111226\nAnwesenheitspflicht: nein\nFlorian Völkl.\nht
+ tps://www.fu-berlin.de/vv/de/lv/1097195?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:6a63e838c7e8afdd078ae81c95057160@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261029T100000
+DTEND;TZID=Europe/Berlin:20261029T120000
+SUMMARY:✏️ Übung: Business- u. Dienstleistungsmarketing · HFB/D Hörs
+ aal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111226\nAnwesenheitspflicht: nein\nFlorian Völkl.\nht
+ tps://www.fu-berlin.de/vv/de/lv/1097195?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:738df9488399c83d3acebf25b8f25d1d@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261105T100000
+DTEND;TZID=Europe/Berlin:20261105T120000
+SUMMARY:✏️ Übung: Business- u. Dienstleistungsmarketing · HFB/D Hörs
+ aal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111226\nAnwesenheitspflicht: nein\nFlorian Völkl.\nht
+ tps://www.fu-berlin.de/vv/de/lv/1097195?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:8123b8d655d642cd6f47a073d3115e27@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261112T100000
+DTEND;TZID=Europe/Berlin:20261112T120000
+SUMMARY:✏️ Übung: Business- u. Dienstleistungsmarketing · HFB/D Hörs
+ aal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111226\nAnwesenheitspflicht: nein\nFlorian Völkl.\nht
+ tps://www.fu-berlin.de/vv/de/lv/1097195?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:506b44da9fdf88e0b4460615028be04a@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261119T100000
+DTEND;TZID=Europe/Berlin:20261119T120000
+SUMMARY:✏️ Übung: Business- u. Dienstleistungsmarketing · HFB/D Hörs
+ aal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111226\nAnwesenheitspflicht: nein\nFlorian Völkl.\nht
+ tps://www.fu-berlin.de/vv/de/lv/1097195?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:cdd076247ae6a4b50f0c991741a1b7d8@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261126T100000
+DTEND;TZID=Europe/Berlin:20261126T120000
+SUMMARY:✏️ Übung: Business- u. Dienstleistungsmarketing · HFB/D Hörs
+ aal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111226\nAnwesenheitspflicht: nein\nFlorian Völkl.\nht
+ tps://www.fu-berlin.de/vv/de/lv/1097195?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:458cbe0f37b60002080acd4b250b4c62@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261203T100000
+DTEND;TZID=Europe/Berlin:20261203T120000
+SUMMARY:✏️ Übung: Business- u. Dienstleistungsmarketing · Hs 101 Hör
+ saal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111226\nAnwesenheitspflicht: nein\nFlorian Völkl.\nht
+ tps://www.fu-berlin.de/vv/de/lv/1097195?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:636f5c7a480e6aab78dc7a4fdca59278@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261210T100000
+DTEND;TZID=Europe/Berlin:20261210T120000
+SUMMARY:✏️ Übung: Business- u. Dienstleistungsmarketing · HFB/D Hörs
+ aal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111226\nAnwesenheitspflicht: nein\nFlorian Völkl.\nht
+ tps://www.fu-berlin.de/vv/de/lv/1097195?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:1ff5994baee662398fe1c4896c3ba89b@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261217T100000
+DTEND;TZID=Europe/Berlin:20261217T120000
+SUMMARY:✏️ Übung: Business- u. Dienstleistungsmarketing · HFB/D Hörs
+ aal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111226\nAnwesenheitspflicht: nein\nFlorian Völkl.\nht
+ tps://www.fu-berlin.de/vv/de/lv/1097195?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:ce0ad3755667ab969f076d4ec862d3d2@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270107T100000
+DTEND;TZID=Europe/Berlin:20270107T120000
+SUMMARY:✏️ Übung: Business- u. Dienstleistungsmarketing · HFB/D Hörs
+ aal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111226\nAnwesenheitspflicht: nein\nFlorian Völkl.\nht
+ tps://www.fu-berlin.de/vv/de/lv/1097195?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:713ab825e2d1239154b8b7267821e93d@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270114T100000
+DTEND;TZID=Europe/Berlin:20270114T120000
+SUMMARY:✏️ Übung: Business- u. Dienstleistungsmarketing · HFB/D Hörs
+ aal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111226\nAnwesenheitspflicht: nein\nFlorian Völkl.\nht
+ tps://www.fu-berlin.de/vv/de/lv/1097195?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:b07010ac5f586d9da01e0d8e1c7f23e9@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270121T100000
+DTEND;TZID=Europe/Berlin:20270121T120000
+SUMMARY:✏️ Übung: Business- u. Dienstleistungsmarketing · HFB/D Hörs
+ aal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111226\nAnwesenheitspflicht: nein\nFlorian Völkl.\nht
+ tps://www.fu-berlin.de/vv/de/lv/1097195?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:274302f6979cc81485c27d6895be81b0@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270128T100000
+DTEND;TZID=Europe/Berlin:20270128T120000
+SUMMARY:✏️ Übung: Business- u. Dienstleistungsmarketing · Hs 101 Hör
+ saal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111226\nAnwesenheitspflicht: nein\nFlorian Völkl.\nht
+ tps://www.fu-berlin.de/vv/de/lv/1097195?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:f70ed247bc27bcab404c582174208d04@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270204T100000
+DTEND;TZID=Europe/Berlin:20270204T120000
+SUMMARY:✏️ Übung: Business- u. Dienstleistungsmarketing · Hs 101 Hör
+ saal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111226\nAnwesenheitspflicht: nein\nFlorian Völkl.\nht
+ tps://www.fu-berlin.de/vv/de/lv/1097195?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:ebec9f82d0345c069e76c1e950057c81@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270211T100000
+DTEND;TZID=Europe/Berlin:20270211T120000
+SUMMARY:✏️ Übung: Business- u. Dienstleistungsmarketing · HFB/D Hörs
+ aal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111226\nAnwesenheitspflicht: nein\nFlorian Völkl.\nht
+ tps://www.fu-berlin.de/vv/de/lv/1097195?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:2bcfe84e4c9defe2d67fa32e3d0b4e37@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261015T100000
+DTEND;TZID=Europe/Berlin:20261015T120000
+SUMMARY:📘 Vorlesung: International Management · HFB/D Hörsaal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111508\nAnwesenheitspflicht: nein\nProf. Kirsch\, Unte
+ rrichtssprache Englisch. Nur 4 Termine in Präsenz (15.10.\, 03.12.\, 28.0
+ 1.\, 04.02.)\, alle anderen online zeitunabhängig (kein fester Zoom-Termi
+ n).\nhttps://www.fu-berlin.de/vv/de/lv/1107426?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:9c367f406e523b1c6848693d10a6952f@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261022T100000
+DTEND;TZID=Europe/Berlin:20261022T120000
+SUMMARY:📘 Vorlesung: International Management · Online (zeitunabhängig
+ )
+LOCATION:Online (zeitunabhängig)
+DESCRIPTION:LV-Nr. 10111508\nAnwesenheitspflicht: nein\nProf. Kirsch\, Unte
+ rrichtssprache Englisch. Nur 4 Termine in Präsenz (15.10.\, 03.12.\, 28.0
+ 1.\, 04.02.)\, alle anderen online zeitunabhängig (kein fester Zoom-Termi
+ n).\nhttps://www.fu-berlin.de/vv/de/lv/1107426?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c45c6c800340121d27e712e5597e6fa8@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261029T100000
+DTEND;TZID=Europe/Berlin:20261029T120000
+SUMMARY:📘 Vorlesung: International Management · Online (zeitunabhängig
+ )
+LOCATION:Online (zeitunabhängig)
+DESCRIPTION:LV-Nr. 10111508\nAnwesenheitspflicht: nein\nProf. Kirsch\, Unte
+ rrichtssprache Englisch. Nur 4 Termine in Präsenz (15.10.\, 03.12.\, 28.0
+ 1.\, 04.02.)\, alle anderen online zeitunabhängig (kein fester Zoom-Termi
+ n).\nhttps://www.fu-berlin.de/vv/de/lv/1107426?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:512ee1cdaac7d88de56c49838efd1b4b@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261105T100000
+DTEND;TZID=Europe/Berlin:20261105T120000
+SUMMARY:📘 Vorlesung: International Management · Online (zeitunabhängig
+ )
+LOCATION:Online (zeitunabhängig)
+DESCRIPTION:LV-Nr. 10111508\nAnwesenheitspflicht: nein\nProf. Kirsch\, Unte
+ rrichtssprache Englisch. Nur 4 Termine in Präsenz (15.10.\, 03.12.\, 28.0
+ 1.\, 04.02.)\, alle anderen online zeitunabhängig (kein fester Zoom-Termi
+ n).\nhttps://www.fu-berlin.de/vv/de/lv/1107426?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc0cea9949bf503352b677234da8c13@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261112T100000
+DTEND;TZID=Europe/Berlin:20261112T120000
+SUMMARY:📘 Vorlesung: International Management · Online (zeitunabhängig
+ )
+LOCATION:Online (zeitunabhängig)
+DESCRIPTION:LV-Nr. 10111508\nAnwesenheitspflicht: nein\nProf. Kirsch\, Unte
+ rrichtssprache Englisch. Nur 4 Termine in Präsenz (15.10.\, 03.12.\, 28.0
+ 1.\, 04.02.)\, alle anderen online zeitunabhängig (kein fester Zoom-Termi
+ n).\nhttps://www.fu-berlin.de/vv/de/lv/1107426?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:df99dc94e5a3ecea38f241a439d0c778@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261119T100000
+DTEND;TZID=Europe/Berlin:20261119T120000
+SUMMARY:📘 Vorlesung: International Management · Online (zeitunabhängig
+ )
+LOCATION:Online (zeitunabhängig)
+DESCRIPTION:LV-Nr. 10111508\nAnwesenheitspflicht: nein\nProf. Kirsch\, Unte
+ rrichtssprache Englisch. Nur 4 Termine in Präsenz (15.10.\, 03.12.\, 28.0
+ 1.\, 04.02.)\, alle anderen online zeitunabhängig (kein fester Zoom-Termi
+ n).\nhttps://www.fu-berlin.de/vv/de/lv/1107426?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c9b57e4718caff55b8eb852c0ea565e0@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261126T100000
+DTEND;TZID=Europe/Berlin:20261126T120000
+SUMMARY:📘 Vorlesung: International Management · Online (zeitunabhängig
+ )
+LOCATION:Online (zeitunabhängig)
+DESCRIPTION:LV-Nr. 10111508\nAnwesenheitspflicht: nein\nProf. Kirsch\, Unte
+ rrichtssprache Englisch. Nur 4 Termine in Präsenz (15.10.\, 03.12.\, 28.0
+ 1.\, 04.02.)\, alle anderen online zeitunabhängig (kein fester Zoom-Termi
+ n).\nhttps://www.fu-berlin.de/vv/de/lv/1107426?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3ce7695d435653411774b1ad0e4d1efe@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261203T100000
+DTEND;TZID=Europe/Berlin:20261203T120000
+SUMMARY:📘 Vorlesung: International Management · HFB/D Hörsaal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111508\nAnwesenheitspflicht: nein\nProf. Kirsch\, Unte
+ rrichtssprache Englisch. Nur 4 Termine in Präsenz (15.10.\, 03.12.\, 28.0
+ 1.\, 04.02.)\, alle anderen online zeitunabhängig (kein fester Zoom-Termi
+ n).\nhttps://www.fu-berlin.de/vv/de/lv/1107426?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:f6338057a9bbb69e60066fb97bee6ce4@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261210T100000
+DTEND;TZID=Europe/Berlin:20261210T120000
+SUMMARY:📘 Vorlesung: International Management · Online (zeitunabhängig
+ )
+LOCATION:Online (zeitunabhängig)
+DESCRIPTION:LV-Nr. 10111508\nAnwesenheitspflicht: nein\nProf. Kirsch\, Unte
+ rrichtssprache Englisch. Nur 4 Termine in Präsenz (15.10.\, 03.12.\, 28.0
+ 1.\, 04.02.)\, alle anderen online zeitunabhängig (kein fester Zoom-Termi
+ n).\nhttps://www.fu-berlin.de/vv/de/lv/1107426?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cc673d44e4fa59e4ccda351f1eeafbeb@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261217T100000
+DTEND;TZID=Europe/Berlin:20261217T120000
+SUMMARY:📘 Vorlesung: International Management · Online (zeitunabhängig
+ )
+LOCATION:Online (zeitunabhängig)
+DESCRIPTION:LV-Nr. 10111508\nAnwesenheitspflicht: nein\nProf. Kirsch\, Unte
+ rrichtssprache Englisch. Nur 4 Termine in Präsenz (15.10.\, 03.12.\, 28.0
+ 1.\, 04.02.)\, alle anderen online zeitunabhängig (kein fester Zoom-Termi
+ n).\nhttps://www.fu-berlin.de/vv/de/lv/1107426?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4ffdad5ad77e9b9dd5799f5576c621d7@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270107T100000
+DTEND;TZID=Europe/Berlin:20270107T120000
+SUMMARY:📘 Vorlesung: International Management · Online (zeitunabhängig
+ )
+LOCATION:Online (zeitunabhängig)
+DESCRIPTION:LV-Nr. 10111508\nAnwesenheitspflicht: nein\nProf. Kirsch\, Unte
+ rrichtssprache Englisch. Nur 4 Termine in Präsenz (15.10.\, 03.12.\, 28.0
+ 1.\, 04.02.)\, alle anderen online zeitunabhängig (kein fester Zoom-Termi
+ n).\nhttps://www.fu-berlin.de/vv/de/lv/1107426?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:51f8c56ab6f96cdf999aacab62b016e1@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270114T100000
+DTEND;TZID=Europe/Berlin:20270114T120000
+SUMMARY:📘 Vorlesung: International Management · Online (zeitunabhängig
+ )
+LOCATION:Online (zeitunabhängig)
+DESCRIPTION:LV-Nr. 10111508\nAnwesenheitspflicht: nein\nProf. Kirsch\, Unte
+ rrichtssprache Englisch. Nur 4 Termine in Präsenz (15.10.\, 03.12.\, 28.0
+ 1.\, 04.02.)\, alle anderen online zeitunabhängig (kein fester Zoom-Termi
+ n).\nhttps://www.fu-berlin.de/vv/de/lv/1107426?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fcd58f82f006468f24a5a4dd6d44f89d@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270121T100000
+DTEND;TZID=Europe/Berlin:20270121T120000
+SUMMARY:📘 Vorlesung: International Management · Online (zeitunabhängig
+ )
+LOCATION:Online (zeitunabhängig)
+DESCRIPTION:LV-Nr. 10111508\nAnwesenheitspflicht: nein\nProf. Kirsch\, Unte
+ rrichtssprache Englisch. Nur 4 Termine in Präsenz (15.10.\, 03.12.\, 28.0
+ 1.\, 04.02.)\, alle anderen online zeitunabhängig (kein fester Zoom-Termi
+ n).\nhttps://www.fu-berlin.de/vv/de/lv/1107426?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:489a5bf4cd01e047052612af5bf1a909@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270128T100000
+DTEND;TZID=Europe/Berlin:20270128T120000
+SUMMARY:📘 Vorlesung: International Management · HFB/D Hörsaal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111508\nAnwesenheitspflicht: nein\nProf. Kirsch\, Unte
+ rrichtssprache Englisch. Nur 4 Termine in Präsenz (15.10.\, 03.12.\, 28.0
+ 1.\, 04.02.)\, alle anderen online zeitunabhängig (kein fester Zoom-Termi
+ n).\nhttps://www.fu-berlin.de/vv/de/lv/1107426?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:96bbd900cbb8eac88718aeb44be0c40a@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270204T100000
+DTEND;TZID=Europe/Berlin:20270204T120000
+SUMMARY:📘 Vorlesung: International Management · HFB/D Hörsaal
+LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111508\nAnwesenheitspflicht: nein\nProf. Kirsch\, Unte
+ rrichtssprache Englisch. Nur 4 Termine in Präsenz (15.10.\, 03.12.\, 28.0
+ 1.\, 04.02.)\, alle anderen online zeitunabhängig (kein fester Zoom-Termi
+ n).\nhttps://www.fu-berlin.de/vv/de/lv/1107426?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:9e44b6de1d0cfad3385a6c638872e445@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270211T100000
+DTEND;TZID=Europe/Berlin:20270211T120000
+SUMMARY:📘 Vorlesung: International Management · Online (zeitunabhängig
+ )
+LOCATION:Online (zeitunabhängig)
+DESCRIPTION:LV-Nr. 10111508\nAnwesenheitspflicht: nein\nProf. Kirsch\, Unte
+ rrichtssprache Englisch. Nur 4 Termine in Präsenz (15.10.\, 03.12.\, 28.0
+ 1.\, 04.02.)\, alle anderen online zeitunabhängig (kein fester Zoom-Termi
+ n).\nhttps://www.fu-berlin.de/vv/de/lv/1107426?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5b0b1a25a14c21a1b4736f7f3df8c0b3@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261019T120000
+DTEND;TZID=Europe/Berlin:20261019T140000
+SUMMARY:✏️ Übung: International Management · Hs 103 Hörsaal
+LOCATION:Hs 103 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111526\nAnwesenheitspflicht: nein\nKeine Anwesenheitsp
+ flicht eigene Angabe (im VV steht dagegen Teilnahmepflicht: Ja\, bitte im 
+ Kursraum/Blackboard gegenprüfen). Prof. Kirsch\, Englisch\, 50 Plätze.\n
+ https://www.fu-berlin.de/vv/de/lv/1107430?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:9e38c41f54f2461ec02760dc77930f49@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261026T120000
+DTEND;TZID=Europe/Berlin:20261026T140000
+SUMMARY:✏️ Übung: International Management · Hs 103 Hörsaal
+LOCATION:Hs 103 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111526\nAnwesenheitspflicht: nein\nKeine Anwesenheitsp
+ flicht eigene Angabe (im VV steht dagegen Teilnahmepflicht: Ja\, bitte im 
+ Kursraum/Blackboard gegenprüfen). Prof. Kirsch\, Englisch\, 50 Plätze.\n
+ https://www.fu-berlin.de/vv/de/lv/1107430?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:fce390d7094850ea3eb1b89be39d972f@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261102T120000
+DTEND;TZID=Europe/Berlin:20261102T140000
+SUMMARY:✏️ Übung: International Management · Hs 103 Hörsaal
+LOCATION:Hs 103 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111526\nAnwesenheitspflicht: nein\nKeine Anwesenheitsp
+ flicht eigene Angabe (im VV steht dagegen Teilnahmepflicht: Ja\, bitte im 
+ Kursraum/Blackboard gegenprüfen). Prof. Kirsch\, Englisch\, 50 Plätze.\n
+ https://www.fu-berlin.de/vv/de/lv/1107430?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:40dd427f91ac3856decd4290aaa31ce8@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261109T120000
+DTEND;TZID=Europe/Berlin:20261109T140000
+SUMMARY:✏️ Übung: International Management · Hs 103 Hörsaal
+LOCATION:Hs 103 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111526\nAnwesenheitspflicht: nein\nKeine Anwesenheitsp
+ flicht eigene Angabe (im VV steht dagegen Teilnahmepflicht: Ja\, bitte im 
+ Kursraum/Blackboard gegenprüfen). Prof. Kirsch\, Englisch\, 50 Plätze.\n
+ https://www.fu-berlin.de/vv/de/lv/1107430?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:ffb293f9104fd9fa35cdd14596d51786@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261116T120000
+DTEND;TZID=Europe/Berlin:20261116T140000
+SUMMARY:✏️ Übung: International Management · Hs 103 Hörsaal
+LOCATION:Hs 103 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111526\nAnwesenheitspflicht: nein\nKeine Anwesenheitsp
+ flicht eigene Angabe (im VV steht dagegen Teilnahmepflicht: Ja\, bitte im 
+ Kursraum/Blackboard gegenprüfen). Prof. Kirsch\, Englisch\, 50 Plätze.\n
+ https://www.fu-berlin.de/vv/de/lv/1107430?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:a218f4cf6454d001daafe8c541e26f4b@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261123T120000
+DTEND;TZID=Europe/Berlin:20261123T140000
+SUMMARY:✏️ Übung: International Management · Hs 103 Hörsaal
+LOCATION:Hs 103 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111526\nAnwesenheitspflicht: nein\nKeine Anwesenheitsp
+ flicht eigene Angabe (im VV steht dagegen Teilnahmepflicht: Ja\, bitte im 
+ Kursraum/Blackboard gegenprüfen). Prof. Kirsch\, Englisch\, 50 Plätze.\n
+ https://www.fu-berlin.de/vv/de/lv/1107430?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:63aa5bd5f5ac0cd3557f2f721f670493@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261130T120000
+DTEND;TZID=Europe/Berlin:20261130T140000
+SUMMARY:✏️ Übung: International Management · Hs 103 Hörsaal
+LOCATION:Hs 103 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111526\nAnwesenheitspflicht: nein\nKeine Anwesenheitsp
+ flicht eigene Angabe (im VV steht dagegen Teilnahmepflicht: Ja\, bitte im 
+ Kursraum/Blackboard gegenprüfen). Prof. Kirsch\, Englisch\, 50 Plätze.\n
+ https://www.fu-berlin.de/vv/de/lv/1107430?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:4366bb85fc67ccfc450460dab14f7e32@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261207T120000
+DTEND;TZID=Europe/Berlin:20261207T140000
+SUMMARY:✏️ Übung: International Management · Hs 103 Hörsaal
+LOCATION:Hs 103 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111526\nAnwesenheitspflicht: nein\nKeine Anwesenheitsp
+ flicht eigene Angabe (im VV steht dagegen Teilnahmepflicht: Ja\, bitte im 
+ Kursraum/Blackboard gegenprüfen). Prof. Kirsch\, Englisch\, 50 Plätze.\n
+ https://www.fu-berlin.de/vv/de/lv/1107430?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:805df63477484729221e9ddef7967028@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261214T120000
+DTEND;TZID=Europe/Berlin:20261214T140000
+SUMMARY:✏️ Übung: International Management · Hs 103 Hörsaal
+LOCATION:Hs 103 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111526\nAnwesenheitspflicht: nein\nKeine Anwesenheitsp
+ flicht eigene Angabe (im VV steht dagegen Teilnahmepflicht: Ja\, bitte im 
+ Kursraum/Blackboard gegenprüfen). Prof. Kirsch\, Englisch\, 50 Plätze.\n
+ https://www.fu-berlin.de/vv/de/lv/1107430?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:89f3eaf1d3a856341269dd15a70e0fae@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261221T120000
+DTEND;TZID=Europe/Berlin:20261221T140000
+SUMMARY:✏️ Übung: International Management · Hs 103 Hörsaal
+LOCATION:Hs 103 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111526\nAnwesenheitspflicht: nein\nKeine Anwesenheitsp
+ flicht eigene Angabe (im VV steht dagegen Teilnahmepflicht: Ja\, bitte im 
+ Kursraum/Blackboard gegenprüfen). Prof. Kirsch\, Englisch\, 50 Plätze.\n
+ https://www.fu-berlin.de/vv/de/lv/1107430?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:f37d51e714a5124024bdacf28fe975f1@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270104T120000
+DTEND;TZID=Europe/Berlin:20270104T140000
+SUMMARY:✏️ Übung: International Management · Hs 103 Hörsaal
+LOCATION:Hs 103 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111526\nAnwesenheitspflicht: nein\nKeine Anwesenheitsp
+ flicht eigene Angabe (im VV steht dagegen Teilnahmepflicht: Ja\, bitte im 
+ Kursraum/Blackboard gegenprüfen). Prof. Kirsch\, Englisch\, 50 Plätze.\n
+ https://www.fu-berlin.de/vv/de/lv/1107430?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:6f6bb5c9800fef881fc7daa2eeecb6c4@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270111T120000
+DTEND;TZID=Europe/Berlin:20270111T140000
+SUMMARY:✏️ Übung: International Management · Hs 103 Hörsaal
+LOCATION:Hs 103 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111526\nAnwesenheitspflicht: nein\nKeine Anwesenheitsp
+ flicht eigene Angabe (im VV steht dagegen Teilnahmepflicht: Ja\, bitte im 
+ Kursraum/Blackboard gegenprüfen). Prof. Kirsch\, Englisch\, 50 Plätze.\n
+ https://www.fu-berlin.de/vv/de/lv/1107430?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:778dbe72cd47c9a1169298de754e4cc4@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270118T120000
+DTEND;TZID=Europe/Berlin:20270118T140000
+SUMMARY:✏️ Übung: International Management · Hs 103 Hörsaal
+LOCATION:Hs 103 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111526\nAnwesenheitspflicht: nein\nKeine Anwesenheitsp
+ flicht eigene Angabe (im VV steht dagegen Teilnahmepflicht: Ja\, bitte im 
+ Kursraum/Blackboard gegenprüfen). Prof. Kirsch\, Englisch\, 50 Plätze.\n
+ https://www.fu-berlin.de/vv/de/lv/1107430?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:644f89d85d9c7faba9503bb460a0e621@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270125T120000
+DTEND;TZID=Europe/Berlin:20270125T140000
+SUMMARY:✏️ Übung: International Management · Hs 103 Hörsaal
+LOCATION:Hs 103 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111526\nAnwesenheitspflicht: nein\nKeine Anwesenheitsp
+ flicht eigene Angabe (im VV steht dagegen Teilnahmepflicht: Ja\, bitte im 
+ Kursraum/Blackboard gegenprüfen). Prof. Kirsch\, Englisch\, 50 Plätze.\n
+ https://www.fu-berlin.de/vv/de/lv/1107430?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:53440626948df524a380a2056f00378a@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270201T120000
+DTEND;TZID=Europe/Berlin:20270201T140000
+SUMMARY:✏️ Übung: International Management · Hs 103 Hörsaal
+LOCATION:Hs 103 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10111526\nAnwesenheitspflicht: nein\nKeine Anwesenheitsp
+ flicht eigene Angabe (im VV steht dagegen Teilnahmepflicht: Ja\, bitte im 
+ Kursraum/Blackboard gegenprüfen). Prof. Kirsch\, Englisch\, 50 Plätze.\n
+ https://www.fu-berlin.de/vv/de/lv/1107430?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:af2fdf2839f858e945d19702e93f1156@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261016T140000
+DTEND;TZID=Europe/Berlin:20261016T180000
+SUMMARY:📘 Vorlesung: Arbeitsrecht · Hs 101 Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10121701\nAnwesenheitspflicht: nein\nNur 8 Termine (ca. 
+ alle 2 Wochen)\, nicht wöchentlich.\nhttps://www.fu-berlin.de/vv/de/lv/11
+ 08835?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:d0f638d4194a96a9b9ed7957c1035b7a@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261030T140000
+DTEND;TZID=Europe/Berlin:20261030T180000
+SUMMARY:📘 Vorlesung: Arbeitsrecht · Hs 101 Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10121701\nAnwesenheitspflicht: nein\nNur 8 Termine (ca. 
+ alle 2 Wochen)\, nicht wöchentlich.\nhttps://www.fu-berlin.de/vv/de/lv/11
+ 08835?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:8d98bec76e8a7671510cfcea90eb334d@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261113T140000
+DTEND;TZID=Europe/Berlin:20261113T180000
+SUMMARY:📘 Vorlesung: Arbeitsrecht · Hs 101 Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10121701\nAnwesenheitspflicht: nein\nNur 8 Termine (ca. 
+ alle 2 Wochen)\, nicht wöchentlich.\nhttps://www.fu-berlin.de/vv/de/lv/11
+ 08835?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:b943cc297b7be3b6fd048da83a2f2fb3@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261127T140000
+DTEND;TZID=Europe/Berlin:20261127T180000
+SUMMARY:📘 Vorlesung: Arbeitsrecht · Hs 101 Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10121701\nAnwesenheitspflicht: nein\nNur 8 Termine (ca. 
+ alle 2 Wochen)\, nicht wöchentlich.\nhttps://www.fu-berlin.de/vv/de/lv/11
+ 08835?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:aef89371e98025a24edd7c0fc5241aed@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261211T140000
+DTEND;TZID=Europe/Berlin:20261211T180000
+SUMMARY:📘 Vorlesung: Arbeitsrecht · Hs 101 Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10121701\nAnwesenheitspflicht: nein\nNur 8 Termine (ca. 
+ alle 2 Wochen)\, nicht wöchentlich.\nhttps://www.fu-berlin.de/vv/de/lv/11
+ 08835?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:fa13edc45319fcac9880dddaa5eff28d@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270115T140000
+DTEND;TZID=Europe/Berlin:20270115T180000
+SUMMARY:📘 Vorlesung: Arbeitsrecht · Hs 101 Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10121701\nAnwesenheitspflicht: nein\nNur 8 Termine (ca. 
+ alle 2 Wochen)\, nicht wöchentlich.\nhttps://www.fu-berlin.de/vv/de/lv/11
+ 08835?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:b35213725b94108540b9412f71fbb365@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270129T140000
+DTEND;TZID=Europe/Berlin:20270129T180000
+SUMMARY:📘 Vorlesung: Arbeitsrecht · Hs 101 Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10121701\nAnwesenheitspflicht: nein\nNur 8 Termine (ca. 
+ alle 2 Wochen)\, nicht wöchentlich.\nhttps://www.fu-berlin.de/vv/de/lv/11
+ 08835?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:ed71ad89a63bd1436c92bdbad421ce2a@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270212T140000
+DTEND;TZID=Europe/Berlin:20270212T180000
+SUMMARY:📘 Vorlesung: Arbeitsrecht · Hs 101 Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10121701\nAnwesenheitspflicht: nein\nNur 8 Termine (ca. 
+ alle 2 Wochen)\, nicht wöchentlich.\nhttps://www.fu-berlin.de/vv/de/lv/11
+ 08835?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:94f265352190d7671cf9fd67a8523a46@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261014T140000
+DTEND;TZID=Europe/Berlin:20261014T160000
+SUMMARY:📘 Vorlesung: Einführung in die Wirtschaftsinformatik · Hs 101 
+ Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110701\nAnwesenheitspflicht: nein\nProf. Fürstenau / 
+ Dr. Rößler-Freiherr von Saß. Klausuraufbau: A1 Fragen zu allen Themen (
+ ~60 P.)\, A2 Excel (15-25 P.)\, A3 EUS (~10 P.)\, A4 Programmieren (15-25 
+ P.)\, A5 Datenbank (15-25 P.).\nhttps://www.fu-berlin.de/vv/de/lv/1109546?
+ sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:cb0ccc2d2a55ba3bf01e400c6bb9d03c@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261021T140000
+DTEND;TZID=Europe/Berlin:20261021T160000
+SUMMARY:📘 Vorlesung: Einführung in die Wirtschaftsinformatik · Hs 101 
+ Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110701\nAnwesenheitspflicht: nein\nProf. Fürstenau / 
+ Dr. Rößler-Freiherr von Saß. Klausuraufbau: A1 Fragen zu allen Themen (
+ ~60 P.)\, A2 Excel (15-25 P.)\, A3 EUS (~10 P.)\, A4 Programmieren (15-25 
+ P.)\, A5 Datenbank (15-25 P.).\nhttps://www.fu-berlin.de/vv/de/lv/1109546?
+ sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:a3827e66bdafd9ec0ef1a345d3dab30b@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261028T140000
+DTEND;TZID=Europe/Berlin:20261028T160000
+SUMMARY:📘 Vorlesung: Einführung in die Wirtschaftsinformatik · Hs 101 
+ Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110701\nAnwesenheitspflicht: nein\nProf. Fürstenau / 
+ Dr. Rößler-Freiherr von Saß. Klausuraufbau: A1 Fragen zu allen Themen (
+ ~60 P.)\, A2 Excel (15-25 P.)\, A3 EUS (~10 P.)\, A4 Programmieren (15-25 
+ P.)\, A5 Datenbank (15-25 P.).\nhttps://www.fu-berlin.de/vv/de/lv/1109546?
+ sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:9ca8b2d298d6a150587a2ddcf6583185@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261104T140000
+DTEND;TZID=Europe/Berlin:20261104T160000
+SUMMARY:📘 Vorlesung: Einführung in die Wirtschaftsinformatik · Hs 101 
+ Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110701\nAnwesenheitspflicht: nein\nProf. Fürstenau / 
+ Dr. Rößler-Freiherr von Saß. Klausuraufbau: A1 Fragen zu allen Themen (
+ ~60 P.)\, A2 Excel (15-25 P.)\, A3 EUS (~10 P.)\, A4 Programmieren (15-25 
+ P.)\, A5 Datenbank (15-25 P.).\nhttps://www.fu-berlin.de/vv/de/lv/1109546?
+ sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:4375556dc51a710fcb19cdc73bbf7ede@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261111T140000
+DTEND;TZID=Europe/Berlin:20261111T160000
+SUMMARY:📘 Vorlesung: Einführung in die Wirtschaftsinformatik · Hs 101 
+ Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110701\nAnwesenheitspflicht: nein\nProf. Fürstenau / 
+ Dr. Rößler-Freiherr von Saß. Klausuraufbau: A1 Fragen zu allen Themen (
+ ~60 P.)\, A2 Excel (15-25 P.)\, A3 EUS (~10 P.)\, A4 Programmieren (15-25 
+ P.)\, A5 Datenbank (15-25 P.).\nhttps://www.fu-berlin.de/vv/de/lv/1109546?
+ sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:97f5218b707540f687a105f719b223af@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261118T140000
+DTEND;TZID=Europe/Berlin:20261118T160000
+SUMMARY:📘 Vorlesung: Einführung in die Wirtschaftsinformatik · Hs 101 
+ Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110701\nAnwesenheitspflicht: nein\nProf. Fürstenau / 
+ Dr. Rößler-Freiherr von Saß. Klausuraufbau: A1 Fragen zu allen Themen (
+ ~60 P.)\, A2 Excel (15-25 P.)\, A3 EUS (~10 P.)\, A4 Programmieren (15-25 
+ P.)\, A5 Datenbank (15-25 P.).\nhttps://www.fu-berlin.de/vv/de/lv/1109546?
+ sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:0603eb51a2a2cd5ab3daaec83318ae7f@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261125T140000
+DTEND;TZID=Europe/Berlin:20261125T160000
+SUMMARY:📘 Vorlesung: Einführung in die Wirtschaftsinformatik · Hs 101 
+ Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110701\nAnwesenheitspflicht: nein\nProf. Fürstenau / 
+ Dr. Rößler-Freiherr von Saß. Klausuraufbau: A1 Fragen zu allen Themen (
+ ~60 P.)\, A2 Excel (15-25 P.)\, A3 EUS (~10 P.)\, A4 Programmieren (15-25 
+ P.)\, A5 Datenbank (15-25 P.).\nhttps://www.fu-berlin.de/vv/de/lv/1109546?
+ sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:6767272ab888bdeedc837a00e85036b6@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261202T140000
+DTEND;TZID=Europe/Berlin:20261202T160000
+SUMMARY:📘 Vorlesung: Einführung in die Wirtschaftsinformatik · Hs 101 
+ Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110701\nAnwesenheitspflicht: nein\nProf. Fürstenau / 
+ Dr. Rößler-Freiherr von Saß. Klausuraufbau: A1 Fragen zu allen Themen (
+ ~60 P.)\, A2 Excel (15-25 P.)\, A3 EUS (~10 P.)\, A4 Programmieren (15-25 
+ P.)\, A5 Datenbank (15-25 P.).\nhttps://www.fu-berlin.de/vv/de/lv/1109546?
+ sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:887c42f5e5cd9eee309d1cd9e09e3ac0@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261209T140000
+DTEND;TZID=Europe/Berlin:20261209T160000
+SUMMARY:📘 Vorlesung: Einführung in die Wirtschaftsinformatik · Hs 101 
+ Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110701\nAnwesenheitspflicht: nein\nProf. Fürstenau / 
+ Dr. Rößler-Freiherr von Saß. Klausuraufbau: A1 Fragen zu allen Themen (
+ ~60 P.)\, A2 Excel (15-25 P.)\, A3 EUS (~10 P.)\, A4 Programmieren (15-25 
+ P.)\, A5 Datenbank (15-25 P.).\nhttps://www.fu-berlin.de/vv/de/lv/1109546?
+ sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:8067766db2bccd3c778c9089a433ea70@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261216T140000
+DTEND;TZID=Europe/Berlin:20261216T160000
+SUMMARY:📘 Vorlesung: Einführung in die Wirtschaftsinformatik · Hs 101 
+ Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110701\nAnwesenheitspflicht: nein\nProf. Fürstenau / 
+ Dr. Rößler-Freiherr von Saß. Klausuraufbau: A1 Fragen zu allen Themen (
+ ~60 P.)\, A2 Excel (15-25 P.)\, A3 EUS (~10 P.)\, A4 Programmieren (15-25 
+ P.)\, A5 Datenbank (15-25 P.).\nhttps://www.fu-berlin.de/vv/de/lv/1109546?
+ sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:0b7dcbed6520d5bc973572c6b88f8fec@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270106T140000
+DTEND;TZID=Europe/Berlin:20270106T160000
+SUMMARY:📘 Vorlesung: Einführung in die Wirtschaftsinformatik · Hs 101 
+ Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110701\nAnwesenheitspflicht: nein\nProf. Fürstenau / 
+ Dr. Rößler-Freiherr von Saß. Klausuraufbau: A1 Fragen zu allen Themen (
+ ~60 P.)\, A2 Excel (15-25 P.)\, A3 EUS (~10 P.)\, A4 Programmieren (15-25 
+ P.)\, A5 Datenbank (15-25 P.).\nhttps://www.fu-berlin.de/vv/de/lv/1109546?
+ sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:56cf97adebea40f1947dfca36beb9ae9@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270113T140000
+DTEND;TZID=Europe/Berlin:20270113T160000
+SUMMARY:📘 Vorlesung: Einführung in die Wirtschaftsinformatik · Hs 101 
+ Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110701\nAnwesenheitspflicht: nein\nProf. Fürstenau / 
+ Dr. Rößler-Freiherr von Saß. Klausuraufbau: A1 Fragen zu allen Themen (
+ ~60 P.)\, A2 Excel (15-25 P.)\, A3 EUS (~10 P.)\, A4 Programmieren (15-25 
+ P.)\, A5 Datenbank (15-25 P.).\nhttps://www.fu-berlin.de/vv/de/lv/1109546?
+ sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:b1560bd8337448f9f905bf887350e464@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270120T140000
+DTEND;TZID=Europe/Berlin:20270120T160000
+SUMMARY:📘 Vorlesung: Einführung in die Wirtschaftsinformatik · Hs 101 
+ Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110701\nAnwesenheitspflicht: nein\nProf. Fürstenau / 
+ Dr. Rößler-Freiherr von Saß. Klausuraufbau: A1 Fragen zu allen Themen (
+ ~60 P.)\, A2 Excel (15-25 P.)\, A3 EUS (~10 P.)\, A4 Programmieren (15-25 
+ P.)\, A5 Datenbank (15-25 P.).\nhttps://www.fu-berlin.de/vv/de/lv/1109546?
+ sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:8128d93dc6906d990e1cdeb53ef509c7@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270127T140000
+DTEND;TZID=Europe/Berlin:20270127T160000
+SUMMARY:📘 Vorlesung: Einführung in die Wirtschaftsinformatik · Hs 101 
+ Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110701\nAnwesenheitspflicht: nein\nProf. Fürstenau / 
+ Dr. Rößler-Freiherr von Saß. Klausuraufbau: A1 Fragen zu allen Themen (
+ ~60 P.)\, A2 Excel (15-25 P.)\, A3 EUS (~10 P.)\, A4 Programmieren (15-25 
+ P.)\, A5 Datenbank (15-25 P.).\nhttps://www.fu-berlin.de/vv/de/lv/1109546?
+ sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:e604064883d76173b26bc208dd9d7943@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270203T140000
+DTEND;TZID=Europe/Berlin:20270203T160000
+SUMMARY:📘 Vorlesung: Einführung in die Wirtschaftsinformatik · Hs 101 
+ Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110701\nAnwesenheitspflicht: nein\nProf. Fürstenau / 
+ Dr. Rößler-Freiherr von Saß. Klausuraufbau: A1 Fragen zu allen Themen (
+ ~60 P.)\, A2 Excel (15-25 P.)\, A3 EUS (~10 P.)\, A4 Programmieren (15-25 
+ P.)\, A5 Datenbank (15-25 P.).\nhttps://www.fu-berlin.de/vv/de/lv/1109546?
+ sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:2f33ba7707c5d7762e2c577499fa45d9@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270210T140000
+DTEND;TZID=Europe/Berlin:20270210T160000
+SUMMARY:📘 Vorlesung: Einführung in die Wirtschaftsinformatik · Hs 101 
+ Hörsaal
+LOCATION:Hs 101 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110701\nAnwesenheitspflicht: nein\nProf. Fürstenau / 
+ Dr. Rößler-Freiherr von Saß. Klausuraufbau: A1 Fragen zu allen Themen (
+ ~60 P.)\, A2 Excel (15-25 P.)\, A3 EUS (~10 P.)\, A4 Programmieren (15-25 
+ P.)\, A5 Datenbank (15-25 P.).\nhttps://www.fu-berlin.de/vv/de/lv/1109546?
+ sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:38f939a65ef7e119b1c61a78f4389876@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261015T140000
+DTEND;TZID=Europe/Berlin:20261015T160000
+SUMMARY:✏️ Übung: Einführung in die Wirtschaftsinformatik · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110702\nAnwesenheitspflicht: nein\nhttps://www.fu-berl
+ in.de/vv/de/lv/1109553?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:6c526e7277b3d89b309b42e48dcf41ba@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261022T140000
+DTEND;TZID=Europe/Berlin:20261022T160000
+SUMMARY:✏️ Übung: Einführung in die Wirtschaftsinformatik · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110702\nAnwesenheitspflicht: nein\nhttps://www.fu-berl
+ in.de/vv/de/lv/1109553?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:bff9cf7269d67c921e9e01d9e2246fcf@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261029T140000
+DTEND;TZID=Europe/Berlin:20261029T160000
+SUMMARY:✏️ Übung: Einführung in die Wirtschaftsinformatik · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110702\nAnwesenheitspflicht: nein\nhttps://www.fu-berl
+ in.de/vv/de/lv/1109553?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:81986c0cb4c53d4e5ade5c0ef98c4c08@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261105T140000
+DTEND;TZID=Europe/Berlin:20261105T160000
+SUMMARY:✏️ Übung: Einführung in die Wirtschaftsinformatik · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110702\nAnwesenheitspflicht: nein\nhttps://www.fu-berl
+ in.de/vv/de/lv/1109553?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:76e56153b1da2c13c6a1f5df99e59cee@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261112T140000
+DTEND;TZID=Europe/Berlin:20261112T160000
+SUMMARY:✏️ Übung: Einführung in die Wirtschaftsinformatik · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110702\nAnwesenheitspflicht: nein\nhttps://www.fu-berl
+ in.de/vv/de/lv/1109553?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:d387dc9a7acf9595a1f88d730e7d2e21@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261119T140000
+DTEND;TZID=Europe/Berlin:20261119T160000
+SUMMARY:✏️ Übung: Einführung in die Wirtschaftsinformatik · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110702\nAnwesenheitspflicht: nein\nhttps://www.fu-berl
+ in.de/vv/de/lv/1109553?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:28310c31c17629f818773edc23e39432@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261126T140000
+DTEND;TZID=Europe/Berlin:20261126T160000
+SUMMARY:✏️ Übung: Einführung in die Wirtschaftsinformatik · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110702\nAnwesenheitspflicht: nein\nhttps://www.fu-berl
+ in.de/vv/de/lv/1109553?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:2cb844ef553d2c319d762e0a51355d4a@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261203T140000
+DTEND;TZID=Europe/Berlin:20261203T160000
+SUMMARY:✏️ Übung: Einführung in die Wirtschaftsinformatik · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110702\nAnwesenheitspflicht: nein\nhttps://www.fu-berl
+ in.de/vv/de/lv/1109553?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:76422a749ab26918f9ea1474489919bc@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261210T140000
+DTEND;TZID=Europe/Berlin:20261210T160000
+SUMMARY:✏️ Übung: Einführung in die Wirtschaftsinformatik · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110702\nAnwesenheitspflicht: nein\nhttps://www.fu-berl
+ in.de/vv/de/lv/1109553?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:f810f33fddda6774764a28d1d12fa47d@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261217T140000
+DTEND;TZID=Europe/Berlin:20261217T160000
+SUMMARY:✏️ Übung: Einführung in die Wirtschaftsinformatik · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110702\nAnwesenheitspflicht: nein\nhttps://www.fu-berl
+ in.de/vv/de/lv/1109553?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:998232ed969bb378d69a4f1542872d55@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270107T140000
+DTEND;TZID=Europe/Berlin:20270107T160000
+SUMMARY:✏️ Übung: Einführung in die Wirtschaftsinformatik · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110702\nAnwesenheitspflicht: nein\nhttps://www.fu-berl
+ in.de/vv/de/lv/1109553?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:641e398b52e5e1b40d08e6728cb72844@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270114T140000
+DTEND;TZID=Europe/Berlin:20270114T160000
+SUMMARY:✏️ Übung: Einführung in die Wirtschaftsinformatik · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110702\nAnwesenheitspflicht: nein\nhttps://www.fu-berl
+ in.de/vv/de/lv/1109553?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:3c7d82355e558f567b32fd1aac14bf83@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270121T140000
+DTEND;TZID=Europe/Berlin:20270121T160000
+SUMMARY:✏️ Übung: Einführung in die Wirtschaftsinformatik · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110702\nAnwesenheitspflicht: nein\nhttps://www.fu-berl
+ in.de/vv/de/lv/1109553?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:d27b4c2661cbbaaef027929d5ed9f71d@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270128T140000
+DTEND;TZID=Europe/Berlin:20270128T160000
+SUMMARY:✏️ Übung: Einführung in die Wirtschaftsinformatik · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110702\nAnwesenheitspflicht: nein\nhttps://www.fu-berl
+ in.de/vv/de/lv/1109553?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:95c0fd9e67422dcc6804cb88e67cb724@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270204T140000
+DTEND;TZID=Europe/Berlin:20270204T160000
+SUMMARY:✏️ Übung: Einführung in die Wirtschaftsinformatik · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110702\nAnwesenheitspflicht: nein\nhttps://www.fu-berl
+ in.de/vv/de/lv/1109553?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:acd348100c0ae479381e86f148aac547@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270211T140000
+DTEND;TZID=Europe/Berlin:20270211T160000
+SUMMARY:✏️ Übung: Einführung in die Wirtschaftsinformatik · HFB/C H
+ örsaal
+LOCATION:HFB/C Hörsaal\, Garystr. 35-37\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110702\nAnwesenheitspflicht: nein\nhttps://www.fu-berl
+ in.de/vv/de/lv/1109553?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:73b1454ec6f63cbe2fdfa167811500c2@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261028T120000
+DTEND;TZID=Europe/Berlin:20261028T140000
+SUMMARY:❗PFLICHT · 🎓 Seminar: Forschungsseminar Brandl – Thematisch
+ er Kick-off · 202 Sitzungsraum / Kaminzimmer
+LOCATION:202 Sitzungsraum / Kaminzimmer\, Boltzmannstr. 16-20\, 14195 Berli
+ n
+DESCRIPTION:LV-Nr. 10113611\nAnwesenheitspflicht: JA\nForschungsseminar Man
+ agement (Brandl)\, Thema Nachhaltigkeitsstrategien. Zeitplan laut Seminar.
+ \nhttps://www.fu-berlin.de/vv/de/lv/1099280?sm=1039762
+CATEGORIES:Anwesenheitspflicht
+COLOR:red
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Anwesenheitspflicht in 1 Stunde
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:125d27d74336ce1d21aec3e519b7909d@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:🎓 Seminar: Forschungsseminar Brandl – Themenvergabe (online) 
+ · Online
+LOCATION:Online
+DESCRIPTION:LV-Nr. 10113611\nAnwesenheitspflicht: nein\nUhrzeit nicht angeg
+ eben\, daher als ganztägiger Termin eingetragen.\nForschungsseminar Manag
+ ement (Brandl)\, Thema Nachhaltigkeitsstrategien. Zeitplan laut Seminar.\n
+ https://www.fu-berlin.de/vv/de/lv/1099280?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:0c12954b283b708c9469ce22fc957277@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261125T120000
+DTEND;TZID=Europe/Berlin:20261125T140000
+SUMMARY:❗PFLICHT · 🎓 Seminar: Forschungsseminar Brandl – Einführun
+ g ins wissenschaftliche Arbeiten · K 005 Seminarraum UG
+LOCATION:K 005 Seminarraum UG\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10113611\nAnwesenheitspflicht: JA\nForschungsseminar Man
+ agement (Brandl)\, Thema Nachhaltigkeitsstrategien. Zeitplan laut Seminar.
+ \nhttps://www.fu-berlin.de/vv/de/lv/1099280?sm=1039762
+CATEGORIES:Anwesenheitspflicht
+COLOR:red
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Anwesenheitspflicht in 1 Stunde
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7605b7710662ec1a80e021d19c8e25f0@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261209T170000
+DTEND;TZID=Europe/Berlin:20261209T180000
+SUMMARY:⏰ Abgabe: Fragestellung und Gliederung (Seminar Brandl)\, bis 18 
+ Uhr
+LOCATION:
+DESCRIPTION:LV-Nr. 10113611\nAnwesenheitspflicht: nein\nForschungsseminar M
+ anagement (Brandl)\, Thema Nachhaltigkeitsstrategien. Zeitplan laut Semina
+ r.\nhttps://www.fu-berlin.de/vv/de/lv/1099280?sm=1039762
+CATEGORIES:Abgabe
+COLOR:red
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Abgabe in 3 Tagen
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Abgabe heute bis 18 Uhr
+TRIGGER:-PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:152a6ece7c6165c1f856accb6c2d2e66@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261211T090000
+DTEND;TZID=Europe/Berlin:20261211T150000
+SUMMARY:🎓 Seminar: Forschungsseminar Brandl – Sprechstunde (online) ·
+  Online
+LOCATION:Online
+DESCRIPTION:LV-Nr. 10113611\nAnwesenheitspflicht: nein\nSprechstundenfenste
+ r 9-15 Uhr\, vermutlich mit individuellem Slot.\nForschungsseminar Managem
+ ent (Brandl)\, Thema Nachhaltigkeitsstrategien. Zeitplan laut Seminar.\nht
+ tps://www.fu-berlin.de/vv/de/lv/1099280?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:704ec89f124f4d42535a553cb1c4525c@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270115T090000
+DTEND;TZID=Europe/Berlin:20270115T150000
+SUMMARY:🎓 Seminar: Forschungsseminar Brandl – Sprechstunde (online) ·
+  Online
+LOCATION:Online
+DESCRIPTION:LV-Nr. 10113611\nAnwesenheitspflicht: nein\nSprechstundenfenste
+ r 9-15 Uhr\, vermutlich mit individuellem Slot.\nForschungsseminar Managem
+ ent (Brandl)\, Thema Nachhaltigkeitsstrategien. Zeitplan laut Seminar.\nht
+ tps://www.fu-berlin.de/vv/de/lv/1099280?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1398310e9bd793a23f0df93e998cbf9f@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270129T090000
+DTEND;TZID=Europe/Berlin:20270129T150000
+SUMMARY:🎓 Seminar: Forschungsseminar Brandl – Sprechstunde (online) ·
+  Online
+LOCATION:Online
+DESCRIPTION:LV-Nr. 10113611\nAnwesenheitspflicht: nein\nSprechstundenfenste
+ r 9-15 Uhr\, vermutlich mit individuellem Slot.\nForschungsseminar Managem
+ ent (Brandl)\, Thema Nachhaltigkeitsstrategien. Zeitplan laut Seminar.\nht
+ tps://www.fu-berlin.de/vv/de/lv/1099280?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cf83d6f3f94b033485e585eefbcb2b30@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270211T120000
+DTEND;TZID=Europe/Berlin:20270211T180000
+SUMMARY:❗PFLICHT · 🎓 Seminar: Forschungsseminar Brandl – Blocksemin
+ ar Präsentation · K 005 Seminarraum UG
+LOCATION:K 005 Seminarraum UG\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10113611\nAnwesenheitspflicht: JA\nForschungsseminar Man
+ agement (Brandl)\, Thema Nachhaltigkeitsstrategien. Zeitplan laut Seminar.
+ \nhttps://www.fu-berlin.de/vv/de/lv/1099280?sm=1039762
+CATEGORIES:Anwesenheitspflicht
+COLOR:red
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Anwesenheitspflicht in 1 Stunde
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3898e1a164a9a042eb622fa99212b54f@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270212T100000
+DTEND;TZID=Europe/Berlin:20270212T150000
+SUMMARY:❗PFLICHT · 🎓 Seminar: Forschungsseminar Brandl – Blocksemin
+ ar Präsentation · 315 Besprechungsraum
+LOCATION:315 Besprechungsraum\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10113611\nAnwesenheitspflicht: JA\nForschungsseminar Man
+ agement (Brandl)\, Thema Nachhaltigkeitsstrategien. Zeitplan laut Seminar.
+ \nhttps://www.fu-berlin.de/vv/de/lv/1099280?sm=1039762
+CATEGORIES:Anwesenheitspflicht
+COLOR:red
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Anwesenheitspflicht in 1 Stunde
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d9187b4f35ad796211923843a81aefd6@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270226T170000
+DTEND;TZID=Europe/Berlin:20270226T180000
+SUMMARY:⏰ Abgabe: Seminararbeit (Seminar Brandl)\, bis 18 Uhr
+LOCATION:
+DESCRIPTION:LV-Nr. 10113611\nAnwesenheitspflicht: nein\nForschungsseminar M
+ anagement (Brandl)\, Thema Nachhaltigkeitsstrategien. Zeitplan laut Semina
+ r.\nhttps://www.fu-berlin.de/vv/de/lv/1099280?sm=1039762
+CATEGORIES:Abgabe
+COLOR:red
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Abgabe in 3 Tagen
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Abgabe heute bis 18 Uhr
+TRIGGER:-PT8H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8012b7aaf592d3ae3028fb1d6095f28f@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261021T160000
+DTEND;TZID=Europe/Berlin:20261021T180000
+SUMMARY:🧑‍🏫 Tutorium: Einführung in die Wirtschaftsinformatik · R
+ aum noch offen
+LOCATION:Raum noch offen
+DESCRIPTION:LV-Nr. 10110705\nAnwesenheitspflicht: nein\nTutorium\, Mi 16-18
+  Uhr eigene Angabe. Im VV sind weder Zeit noch Raum eingetragen. Startdatu
+ m (21.10.) und Raum sind angenommen bzw. offen: bitte beim Tutorium/Blackb
+ oard prüfen. Teilnahmepflicht: Nein laut VV.\nhttps://www.fu-berlin.de/vv
+ /de/lv/1109554?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:9c35076c03dcd0019dfc9bd3207d38c3@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261028T160000
+DTEND;TZID=Europe/Berlin:20261028T180000
+SUMMARY:🧑‍🏫 Tutorium: Einführung in die Wirtschaftsinformatik · R
+ aum noch offen
+LOCATION:Raum noch offen
+DESCRIPTION:LV-Nr. 10110705\nAnwesenheitspflicht: nein\nTutorium\, Mi 16-18
+  Uhr eigene Angabe. Im VV sind weder Zeit noch Raum eingetragen. Startdatu
+ m (21.10.) und Raum sind angenommen bzw. offen: bitte beim Tutorium/Blackb
+ oard prüfen. Teilnahmepflicht: Nein laut VV.\nhttps://www.fu-berlin.de/vv
+ /de/lv/1109554?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:7ca1897d0d591e7203bc1371551f194b@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261104T160000
+DTEND;TZID=Europe/Berlin:20261104T180000
+SUMMARY:🧑‍🏫 Tutorium: Einführung in die Wirtschaftsinformatik · R
+ aum noch offen
+LOCATION:Raum noch offen
+DESCRIPTION:LV-Nr. 10110705\nAnwesenheitspflicht: nein\nTutorium\, Mi 16-18
+  Uhr eigene Angabe. Im VV sind weder Zeit noch Raum eingetragen. Startdatu
+ m (21.10.) und Raum sind angenommen bzw. offen: bitte beim Tutorium/Blackb
+ oard prüfen. Teilnahmepflicht: Nein laut VV.\nhttps://www.fu-berlin.de/vv
+ /de/lv/1109554?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:62038206e3c579fd65f9989aacf73bae@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261111T160000
+DTEND;TZID=Europe/Berlin:20261111T180000
+SUMMARY:🧑‍🏫 Tutorium: Einführung in die Wirtschaftsinformatik · R
+ aum noch offen
+LOCATION:Raum noch offen
+DESCRIPTION:LV-Nr. 10110705\nAnwesenheitspflicht: nein\nTutorium\, Mi 16-18
+  Uhr eigene Angabe. Im VV sind weder Zeit noch Raum eingetragen. Startdatu
+ m (21.10.) und Raum sind angenommen bzw. offen: bitte beim Tutorium/Blackb
+ oard prüfen. Teilnahmepflicht: Nein laut VV.\nhttps://www.fu-berlin.de/vv
+ /de/lv/1109554?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:f85ee089b9d731dd0ac26791aa059d0d@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261118T160000
+DTEND;TZID=Europe/Berlin:20261118T180000
+SUMMARY:🧑‍🏫 Tutorium: Einführung in die Wirtschaftsinformatik · R
+ aum noch offen
+LOCATION:Raum noch offen
+DESCRIPTION:LV-Nr. 10110705\nAnwesenheitspflicht: nein\nTutorium\, Mi 16-18
+  Uhr eigene Angabe. Im VV sind weder Zeit noch Raum eingetragen. Startdatu
+ m (21.10.) und Raum sind angenommen bzw. offen: bitte beim Tutorium/Blackb
+ oard prüfen. Teilnahmepflicht: Nein laut VV.\nhttps://www.fu-berlin.de/vv
+ /de/lv/1109554?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:d31d0abb9ceef17b68b13ec428808141@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261125T160000
+DTEND;TZID=Europe/Berlin:20261125T180000
+SUMMARY:🧑‍🏫 Tutorium: Einführung in die Wirtschaftsinformatik · R
+ aum noch offen
+LOCATION:Raum noch offen
+DESCRIPTION:LV-Nr. 10110705\nAnwesenheitspflicht: nein\nTutorium\, Mi 16-18
+  Uhr eigene Angabe. Im VV sind weder Zeit noch Raum eingetragen. Startdatu
+ m (21.10.) und Raum sind angenommen bzw. offen: bitte beim Tutorium/Blackb
+ oard prüfen. Teilnahmepflicht: Nein laut VV.\nhttps://www.fu-berlin.de/vv
+ /de/lv/1109554?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:543d20426693e7bfab458f3739a3c7ec@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261202T160000
+DTEND;TZID=Europe/Berlin:20261202T180000
+SUMMARY:🧑‍🏫 Tutorium: Einführung in die Wirtschaftsinformatik · R
+ aum noch offen
+LOCATION:Raum noch offen
+DESCRIPTION:LV-Nr. 10110705\nAnwesenheitspflicht: nein\nTutorium\, Mi 16-18
+  Uhr eigene Angabe. Im VV sind weder Zeit noch Raum eingetragen. Startdatu
+ m (21.10.) und Raum sind angenommen bzw. offen: bitte beim Tutorium/Blackb
+ oard prüfen. Teilnahmepflicht: Nein laut VV.\nhttps://www.fu-berlin.de/vv
+ /de/lv/1109554?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:d55f2395fb0398e97f6b707c641a27ec@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261209T160000
+DTEND;TZID=Europe/Berlin:20261209T180000
+SUMMARY:🧑‍🏫 Tutorium: Einführung in die Wirtschaftsinformatik · R
+ aum noch offen
+LOCATION:Raum noch offen
+DESCRIPTION:LV-Nr. 10110705\nAnwesenheitspflicht: nein\nTutorium\, Mi 16-18
+  Uhr eigene Angabe. Im VV sind weder Zeit noch Raum eingetragen. Startdatu
+ m (21.10.) und Raum sind angenommen bzw. offen: bitte beim Tutorium/Blackb
+ oard prüfen. Teilnahmepflicht: Nein laut VV.\nhttps://www.fu-berlin.de/vv
+ /de/lv/1109554?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:82893c93d17850d1e29ba7efe603deaa@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261216T160000
+DTEND;TZID=Europe/Berlin:20261216T180000
+SUMMARY:🧑‍🏫 Tutorium: Einführung in die Wirtschaftsinformatik · R
+ aum noch offen
+LOCATION:Raum noch offen
+DESCRIPTION:LV-Nr. 10110705\nAnwesenheitspflicht: nein\nTutorium\, Mi 16-18
+  Uhr eigene Angabe. Im VV sind weder Zeit noch Raum eingetragen. Startdatu
+ m (21.10.) und Raum sind angenommen bzw. offen: bitte beim Tutorium/Blackb
+ oard prüfen. Teilnahmepflicht: Nein laut VV.\nhttps://www.fu-berlin.de/vv
+ /de/lv/1109554?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:7ef41954194ed3c02c1a91927a8d3326@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270106T160000
+DTEND;TZID=Europe/Berlin:20270106T180000
+SUMMARY:🧑‍🏫 Tutorium: Einführung in die Wirtschaftsinformatik · R
+ aum noch offen
+LOCATION:Raum noch offen
+DESCRIPTION:LV-Nr. 10110705\nAnwesenheitspflicht: nein\nTutorium\, Mi 16-18
+  Uhr eigene Angabe. Im VV sind weder Zeit noch Raum eingetragen. Startdatu
+ m (21.10.) und Raum sind angenommen bzw. offen: bitte beim Tutorium/Blackb
+ oard prüfen. Teilnahmepflicht: Nein laut VV.\nhttps://www.fu-berlin.de/vv
+ /de/lv/1109554?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:23689ca32f1cb55d993a55f700840631@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270113T160000
+DTEND;TZID=Europe/Berlin:20270113T180000
+SUMMARY:🧑‍🏫 Tutorium: Einführung in die Wirtschaftsinformatik · R
+ aum noch offen
+LOCATION:Raum noch offen
+DESCRIPTION:LV-Nr. 10110705\nAnwesenheitspflicht: nein\nTutorium\, Mi 16-18
+  Uhr eigene Angabe. Im VV sind weder Zeit noch Raum eingetragen. Startdatu
+ m (21.10.) und Raum sind angenommen bzw. offen: bitte beim Tutorium/Blackb
+ oard prüfen. Teilnahmepflicht: Nein laut VV.\nhttps://www.fu-berlin.de/vv
+ /de/lv/1109554?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:c30319037f8b501b8b906ae440ed6649@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270120T160000
+DTEND;TZID=Europe/Berlin:20270120T180000
+SUMMARY:🧑‍🏫 Tutorium: Einführung in die Wirtschaftsinformatik · R
+ aum noch offen
+LOCATION:Raum noch offen
+DESCRIPTION:LV-Nr. 10110705\nAnwesenheitspflicht: nein\nTutorium\, Mi 16-18
+  Uhr eigene Angabe. Im VV sind weder Zeit noch Raum eingetragen. Startdatu
+ m (21.10.) und Raum sind angenommen bzw. offen: bitte beim Tutorium/Blackb
+ oard prüfen. Teilnahmepflicht: Nein laut VV.\nhttps://www.fu-berlin.de/vv
+ /de/lv/1109554?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:11e6192cbeaff8d7c6425ce1a5c4007d@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270127T160000
+DTEND;TZID=Europe/Berlin:20270127T180000
+SUMMARY:🧑‍🏫 Tutorium: Einführung in die Wirtschaftsinformatik · R
+ aum noch offen
+LOCATION:Raum noch offen
+DESCRIPTION:LV-Nr. 10110705\nAnwesenheitspflicht: nein\nTutorium\, Mi 16-18
+  Uhr eigene Angabe. Im VV sind weder Zeit noch Raum eingetragen. Startdatu
+ m (21.10.) und Raum sind angenommen bzw. offen: bitte beim Tutorium/Blackb
+ oard prüfen. Teilnahmepflicht: Nein laut VV.\nhttps://www.fu-berlin.de/vv
+ /de/lv/1109554?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:18d4894dd6618785932947cbc84e1fa8@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270203T160000
+DTEND;TZID=Europe/Berlin:20270203T180000
+SUMMARY:🧑‍🏫 Tutorium: Einführung in die Wirtschaftsinformatik · R
+ aum noch offen
+LOCATION:Raum noch offen
+DESCRIPTION:LV-Nr. 10110705\nAnwesenheitspflicht: nein\nTutorium\, Mi 16-18
+  Uhr eigene Angabe. Im VV sind weder Zeit noch Raum eingetragen. Startdatu
+ m (21.10.) und Raum sind angenommen bzw. offen: bitte beim Tutorium/Blackb
+ oard prüfen. Teilnahmepflicht: Nein laut VV.\nhttps://www.fu-berlin.de/vv
+ /de/lv/1109554?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:7626a94cbf367e1c6a45267b6ddd7684@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270210T160000
+DTEND;TZID=Europe/Berlin:20270210T180000
+SUMMARY:🧑‍🏫 Tutorium: Einführung in die Wirtschaftsinformatik · R
+ aum noch offen
+LOCATION:Raum noch offen
+DESCRIPTION:LV-Nr. 10110705\nAnwesenheitspflicht: nein\nTutorium\, Mi 16-18
+  Uhr eigene Angabe. Im VV sind weder Zeit noch Raum eingetragen. Startdatu
+ m (21.10.) und Raum sind angenommen bzw. offen: bitte beim Tutorium/Blackb
+ oard prüfen. Teilnahmepflicht: Nein laut VV.\nhttps://www.fu-berlin.de/vv
+ /de/lv/1109554?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:138264c973593b093585e7be00aec023@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261216T090000
+DTEND;TZID=Europe/Berlin:20261216T110000
+SUMMARY:❗PFLICHT · 📝 Klausur: Einführung in die BWL · Raum noch off
+ en
+LOCATION:Raum noch offen
+DESCRIPTION:LV-Nr. 10110201\nAnwesenheitspflicht: JA\nKlausur 9 Uhr (120 Mi
+ n.\, unbenotet)\, Ende ca. 11 Uhr. Datum/Uhrzeit: eigene Angabe\; Raum noc
+ h offen.\nhttps://www.fu-berlin.de/vv/de/lv/1087488?sm=1039762
+CATEGORIES:Anwesenheitspflicht
+COLOR:red
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Anwesenheitspflicht in 1 Stunde
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen Klausur: Einführung in die BWL
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
