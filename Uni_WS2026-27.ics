@@ -2399,4 +2399,214 @@ DESCRIPTION:Abgabe heute bis 18 Uhr
 TRIGGER:-PT8H
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:958b3ef24e2faeee6d16aeb35e47667d@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261022T140000
+DTEND;TZID=Europe/Berlin:20261022T160000
+SUMMARY:✏️ Übung: Ext. Unternehmensrechnung – Tutorium 12 (Gapa) · 
+ Hs 107 Hörsaal
+LOCATION:Hs 107 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110002\nAnwesenheitspflicht: nein\nÜbungsgruppe laut 
+ Moodle-Anmeldung (Zeitslots): Tutorium 12\, Stefanie Gapa. Inhaltlich deck
+ ungsgleich mit allen Übungen. Überschneidet sich mit der WI-Übung (Do 1
+ 4-16).\nhttps://www.fu-berlin.de/vv/de/lv/1097115?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:3d7c0b07e393a34fb0d973e0b3f3a9ff@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261029T140000
+DTEND;TZID=Europe/Berlin:20261029T160000
+SUMMARY:✏️ Übung: Ext. Unternehmensrechnung – Tutorium 12 (Gapa) · 
+ Hs 107 Hörsaal
+LOCATION:Hs 107 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110002\nAnwesenheitspflicht: nein\nÜbungsgruppe laut 
+ Moodle-Anmeldung (Zeitslots): Tutorium 12\, Stefanie Gapa. Inhaltlich deck
+ ungsgleich mit allen Übungen. Überschneidet sich mit der WI-Übung (Do 1
+ 4-16).\nhttps://www.fu-berlin.de/vv/de/lv/1097115?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:9b851dc4a003dc84b2102b06a403a8ce@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261105T140000
+DTEND;TZID=Europe/Berlin:20261105T160000
+SUMMARY:✏️ Übung: Ext. Unternehmensrechnung – Tutorium 12 (Gapa) · 
+ Hs 107 Hörsaal
+LOCATION:Hs 107 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110002\nAnwesenheitspflicht: nein\nÜbungsgruppe laut 
+ Moodle-Anmeldung (Zeitslots): Tutorium 12\, Stefanie Gapa. Inhaltlich deck
+ ungsgleich mit allen Übungen. Überschneidet sich mit der WI-Übung (Do 1
+ 4-16).\nhttps://www.fu-berlin.de/vv/de/lv/1097115?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:fde592608cd0c3c9b26ab648e152eb09@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261112T140000
+DTEND;TZID=Europe/Berlin:20261112T160000
+SUMMARY:✏️ Übung: Ext. Unternehmensrechnung – Tutorium 12 (Gapa) · 
+ Hs 107 Hörsaal
+LOCATION:Hs 107 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110002\nAnwesenheitspflicht: nein\nÜbungsgruppe laut 
+ Moodle-Anmeldung (Zeitslots): Tutorium 12\, Stefanie Gapa. Inhaltlich deck
+ ungsgleich mit allen Übungen. Überschneidet sich mit der WI-Übung (Do 1
+ 4-16).\nhttps://www.fu-berlin.de/vv/de/lv/1097115?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:050b6b083d088cb5e47877421dfd528a@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261119T140000
+DTEND;TZID=Europe/Berlin:20261119T160000
+SUMMARY:✏️ Übung: Ext. Unternehmensrechnung – Tutorium 12 (Gapa) · 
+ Hs 107 Hörsaal
+LOCATION:Hs 107 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110002\nAnwesenheitspflicht: nein\nÜbungsgruppe laut 
+ Moodle-Anmeldung (Zeitslots): Tutorium 12\, Stefanie Gapa. Inhaltlich deck
+ ungsgleich mit allen Übungen. Überschneidet sich mit der WI-Übung (Do 1
+ 4-16).\nhttps://www.fu-berlin.de/vv/de/lv/1097115?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:c567ef5a719c4465ea75513cd92f0e7d@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261126T140000
+DTEND;TZID=Europe/Berlin:20261126T160000
+SUMMARY:✏️ Übung: Ext. Unternehmensrechnung – Tutorium 12 (Gapa) · 
+ Hs 107 Hörsaal
+LOCATION:Hs 107 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110002\nAnwesenheitspflicht: nein\nÜbungsgruppe laut 
+ Moodle-Anmeldung (Zeitslots): Tutorium 12\, Stefanie Gapa. Inhaltlich deck
+ ungsgleich mit allen Übungen. Überschneidet sich mit der WI-Übung (Do 1
+ 4-16).\nhttps://www.fu-berlin.de/vv/de/lv/1097115?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:f0230f3a95eb60dccd04665ff4893472@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261203T140000
+DTEND;TZID=Europe/Berlin:20261203T160000
+SUMMARY:✏️ Übung: Ext. Unternehmensrechnung – Tutorium 12 (Gapa) · 
+ Hs 107 Hörsaal
+LOCATION:Hs 107 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110002\nAnwesenheitspflicht: nein\nÜbungsgruppe laut 
+ Moodle-Anmeldung (Zeitslots): Tutorium 12\, Stefanie Gapa. Inhaltlich deck
+ ungsgleich mit allen Übungen. Überschneidet sich mit der WI-Übung (Do 1
+ 4-16).\nhttps://www.fu-berlin.de/vv/de/lv/1097115?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:5072bce1fe3a722ab98e273365b7d1b5@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261210T140000
+DTEND;TZID=Europe/Berlin:20261210T160000
+SUMMARY:✏️ Übung: Ext. Unternehmensrechnung – Tutorium 12 (Gapa) · 
+ Hs 107 Hörsaal
+LOCATION:Hs 107 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110002\nAnwesenheitspflicht: nein\nÜbungsgruppe laut 
+ Moodle-Anmeldung (Zeitslots): Tutorium 12\, Stefanie Gapa. Inhaltlich deck
+ ungsgleich mit allen Übungen. Überschneidet sich mit der WI-Übung (Do 1
+ 4-16).\nhttps://www.fu-berlin.de/vv/de/lv/1097115?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:28f2ca6d60b2c5a888d44b7e6360f9be@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20261217T140000
+DTEND;TZID=Europe/Berlin:20261217T160000
+SUMMARY:✏️ Übung: Ext. Unternehmensrechnung – Tutorium 12 (Gapa) · 
+ Hs 107 Hörsaal
+LOCATION:Hs 107 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110002\nAnwesenheitspflicht: nein\nÜbungsgruppe laut 
+ Moodle-Anmeldung (Zeitslots): Tutorium 12\, Stefanie Gapa. Inhaltlich deck
+ ungsgleich mit allen Übungen. Überschneidet sich mit der WI-Übung (Do 1
+ 4-16).\nhttps://www.fu-berlin.de/vv/de/lv/1097115?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:c9e9eb5378a24820f27adc0601046152@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270107T140000
+DTEND;TZID=Europe/Berlin:20270107T160000
+SUMMARY:✏️ Übung: Ext. Unternehmensrechnung – Tutorium 12 (Gapa) · 
+ Hs 107 Hörsaal
+LOCATION:Hs 107 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110002\nAnwesenheitspflicht: nein\nÜbungsgruppe laut 
+ Moodle-Anmeldung (Zeitslots): Tutorium 12\, Stefanie Gapa. Inhaltlich deck
+ ungsgleich mit allen Übungen. Überschneidet sich mit der WI-Übung (Do 1
+ 4-16).\nhttps://www.fu-berlin.de/vv/de/lv/1097115?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:f933c0156bb11b5124a6a7768a590ed8@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270114T140000
+DTEND;TZID=Europe/Berlin:20270114T160000
+SUMMARY:✏️ Übung: Ext. Unternehmensrechnung – Tutorium 12 (Gapa) · 
+ Hs 107 Hörsaal
+LOCATION:Hs 107 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110002\nAnwesenheitspflicht: nein\nÜbungsgruppe laut 
+ Moodle-Anmeldung (Zeitslots): Tutorium 12\, Stefanie Gapa. Inhaltlich deck
+ ungsgleich mit allen Übungen. Überschneidet sich mit der WI-Übung (Do 1
+ 4-16).\nhttps://www.fu-berlin.de/vv/de/lv/1097115?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:889165e4df8de78d18863cd438f3ce79@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270121T140000
+DTEND;TZID=Europe/Berlin:20270121T160000
+SUMMARY:✏️ Übung: Ext. Unternehmensrechnung – Tutorium 12 (Gapa) · 
+ Hs 107 Hörsaal
+LOCATION:Hs 107 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110002\nAnwesenheitspflicht: nein\nÜbungsgruppe laut 
+ Moodle-Anmeldung (Zeitslots): Tutorium 12\, Stefanie Gapa. Inhaltlich deck
+ ungsgleich mit allen Übungen. Überschneidet sich mit der WI-Übung (Do 1
+ 4-16).\nhttps://www.fu-berlin.de/vv/de/lv/1097115?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:ea841ffe8af41defd0aa07ea64a0d94b@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270128T140000
+DTEND;TZID=Europe/Berlin:20270128T160000
+SUMMARY:✏️ Übung: Ext. Unternehmensrechnung – Tutorium 12 (Gapa) · 
+ Hs 107 Hörsaal
+LOCATION:Hs 107 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110002\nAnwesenheitspflicht: nein\nÜbungsgruppe laut 
+ Moodle-Anmeldung (Zeitslots): Tutorium 12\, Stefanie Gapa. Inhaltlich deck
+ ungsgleich mit allen Übungen. Überschneidet sich mit der WI-Übung (Do 1
+ 4-16).\nhttps://www.fu-berlin.de/vv/de/lv/1097115?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:cac3e41c676bbd46766136fd31ffc1a6@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270204T140000
+DTEND;TZID=Europe/Berlin:20270204T160000
+SUMMARY:✏️ Übung: Ext. Unternehmensrechnung – Tutorium 12 (Gapa) · 
+ Hs 107 Hörsaal
+LOCATION:Hs 107 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110002\nAnwesenheitspflicht: nein\nÜbungsgruppe laut 
+ Moodle-Anmeldung (Zeitslots): Tutorium 12\, Stefanie Gapa. Inhaltlich deck
+ ungsgleich mit allen Übungen. Überschneidet sich mit der WI-Übung (Do 1
+ 4-16).\nhttps://www.fu-berlin.de/vv/de/lv/1097115?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
+BEGIN:VEVENT
+UID:a1e8cae57b48fa730704583282f28dc3@studienorga
+DTSTAMP:20261018T210000Z
+DTSTART;TZID=Europe/Berlin:20270211T140000
+DTEND;TZID=Europe/Berlin:20270211T160000
+SUMMARY:✏️ Übung: Ext. Unternehmensrechnung – Tutorium 12 (Gapa) · 
+ Hs 107 Hörsaal
+LOCATION:Hs 107 Hörsaal\, Garystr. 21\, 14195 Berlin
+DESCRIPTION:LV-Nr. 10110002\nAnwesenheitspflicht: nein\nÜbungsgruppe laut 
+ Moodle-Anmeldung (Zeitslots): Tutorium 12\, Stefanie Gapa. Inhaltlich deck
+ ungsgleich mit allen Übungen. Überschneidet sich mit der WI-Übung (Do 1
+ 4-16).\nhttps://www.fu-berlin.de/vv/de/lv/1097115?sm=1039762
+CATEGORIES:Teilnahme freiwillig
+END:VEVENT
 END:VCALENDAR
