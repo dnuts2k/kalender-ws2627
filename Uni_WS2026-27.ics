@@ -548,16 +548,24 @@ DESCRIPTION:LV-Nr. 10111226\nAnwesenheitspflicht: nein\nFlorian Völkl.\nht
 CATEGORIES:Teilnahme freiwillig
 END:VEVENT
 BEGIN:VEVENT
-UID:cdd076247ae6a4b50f0c991741a1b7d8@studienorga
+UID:d5f09b845e18e19272c4dee6a9323fa2@studienorga
 DTSTAMP:20261018T210000Z
 DTSTART;TZID=Europe/Berlin:20261126T100000
 DTEND;TZID=Europe/Berlin:20261126T120000
-SUMMARY:✏️ Übung: Business- u. Dienstleistungsmarketing · HFB/D Hörs
- aal
+SUMMARY:❗PFLICHT · ✏️ Übung: Business- u. Dienstleistungsmarketing 
+ – Gruppenpräsentation (Bonuspunkte) · HFB/D Hörsaal
 LOCATION:HFB/D Hörsaal\, Garystr. 35-37\, 14195 Berlin
-DESCRIPTION:LV-Nr. 10111226\nAnwesenheitspflicht: nein\nFlorian Völkl.\nht
- tps://www.fu-berlin.de/vv/de/lv/1097195?sm=1039762
-CATEGORIES:Teilnahme freiwillig
+DESCRIPTION:LV-Nr. 10111226\nAnwesenheitspflicht: JA\nDeine Gruppenpräsent
+ ation für Bonuspunkte in der Klausur. Uhrzeit = Übungstermin angenommen\
+ , bitte bestätigen.\nFlorian Völkl.\nhttps://www.fu-berlin.de/vv/de/lv/1
+ 097195?sm=1039762
+CATEGORIES:Anwesenheitspflicht
+COLOR:red
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Anwesenheitspflicht in 1 Stunde
+TRIGGER:-PT1H
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:458cbe0f37b60002080acd4b250b4c62@studienorga
